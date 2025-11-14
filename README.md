@@ -1,6 +1,8 @@
 # Pipeline_Docker
 This project loads NYC Green Taxi **Parquet** data into a **Postgres** database using Docker containers on **WSL Ubuntu**. The ingestion is handled through a Python script inside a Docker image. All sensitive or personal configuration details are managed securely through a .env file (excluded from version control).
 
+# Setup Instructions
+
 ## 1. Prerequisites
 
 Make sure you have the following installed:
