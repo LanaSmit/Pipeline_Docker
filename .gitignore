@@ -1,3 +1,4 @@
+*:Zone.Identifier
 # Ignore Docker & database volumes
 pgadmin_data/
 postgres_data/
